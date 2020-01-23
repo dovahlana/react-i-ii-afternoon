@@ -1,0 +1,22 @@
+
+nav  {
+    height: 80px;
+    width: 100vw;
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+}
+
+
+/* 
+Header {
+    background-color: cornflowerblue;
+    height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+} */
+
